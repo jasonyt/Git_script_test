@@ -13,5 +13,8 @@ git commit -a -m "auto push"
 git push
 
 # PULL PROCESS
-ssh jasonyt@login-course.engin.umich.edu "cd Desktop/Git_script_test/Git_script_test/; git pull; exit;"
+ssh jasonyt@login-course.engin.umich.edu \
+"cd Desktop/Git_script_test/Git_script_test/; \
+git pull; \
+exit;"
 
